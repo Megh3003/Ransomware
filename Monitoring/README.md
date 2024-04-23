@@ -13,7 +13,7 @@ To run the program successfully, the following steps are to be followed:
 4. Run encrypter program in simillar way as running `monitor.py`program.
     Exmple: `python encrypter.py`.
 
-## Importand
+## Important
 - View logfile ``monitor_log.csv`` output file for confirmation that the monitoring
     program works correctly.
     
